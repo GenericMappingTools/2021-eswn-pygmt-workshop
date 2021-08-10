@@ -35,6 +35,7 @@ Online via Zoom/Slack
    - Review [Software Carpentry material](https://swcarpentry.github.io/git-novice/)
    - Review [2020 Remote Online Sessions for Emerging Seismologists- Unit 8 PyGMT](https://www.youtube.com/watch?v=SSIGJEe0BIk)
 5. Setup local PyGMT development environment
+   - Follow [setup instructions](/setup.md)
    - Attend help session (optional, August 17)
    - Ask questions on Slack workspace
 6. Join the GMT community (optional)
