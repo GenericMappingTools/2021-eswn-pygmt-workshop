@@ -5,9 +5,12 @@ manage the development environment.
 
 This guide assumes a basic understanding of git using the command line. For
 more help, attend the optional setup session on August 17 and/or review the
-[Software Carpentry](https://software-carpentry.org/)'s courses on
-[the Unix Shell](https://swcarpentry.github.io/shell-novice/) and
+[Software Carpentry](https://software-carpentry.org/)'s course on
 [Version Control with Git](https://swcarpentry.github.io/git-novice/).
+
+This guide also assumes that you are using a UNIX-type shell. If you
+are working on a Windows machine, one option is to install and use
+[Git for Windows](https://gitforwindows.org/).
 
 ## Cloning and forking the repository
 
