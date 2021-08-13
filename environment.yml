@@ -1,0 +1,6 @@
+name: pygmt
+channels:
+    - conda-forge
+dependencies:
+    - pygmt
+    - jupyterlab
