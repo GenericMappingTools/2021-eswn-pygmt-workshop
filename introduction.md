@@ -170,4 +170,4 @@ can also provide insight into how active a project is.
 
 ## References
 
-Content based on https://github.com/github/opensource.guide, licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0).
+Content based on https://github.com/github/opensource.guide, licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/).
