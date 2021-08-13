@@ -138,6 +138,7 @@ is helpful for evaluating projects:
   page to see closed issues.)
 
 **Now do the same for the project’s pull requests.**
+
 - How many open pull requests are there?
 - Do maintainers respond quickly to pull requests when they are opened?
 - Is there active discussion on the pull requests?
@@ -169,4 +170,4 @@ can also provide insight into how active a project is.
 
 ## References
 
-Content based on github.com/github/opensource.guide used under the CC-BY-4.0 license.
+Content based on https://github.com/github/opensource.guide, licensed under [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0).
