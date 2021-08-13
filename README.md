@@ -65,7 +65,7 @@ Participants will receive zoom invitations via email.
 | **Theme** | **Duration** | **UTC Time** |
 |-----------|--------------|--------------|
 | Welcome | 20 min | 20:00 - 20:20 |
-| Introduction to free, open source software | 30 min | 20:20 - 20:50 |
+| [Introduction to free, open source software](introduction.md) | 30 min | 20:20 - 20:50 |
 | Break | 10 min | 20:50 - 21:00 |
 | First issue - branching and committing | 50 min | 21:00 - 21:50 |
 | Break | 10 min | 21:50 - 22:00 |
