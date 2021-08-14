@@ -1,4 +1,4 @@
-name: pygmt
+name: pygmt-workshop
 channels:
     - conda-forge
 dependencies:
