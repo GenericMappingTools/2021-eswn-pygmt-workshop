@@ -119,6 +119,8 @@ In this section, we will create a repository.
 - Complete the modify-add-commit cycle.
 - Understand how to write descriptive commit messages.
 
+![git staging area](https://raw.githubusercontent.com/swcarpentry/git-novice/v2019.06.1/fig/git-staging-area.svg)
+
 ### Tutorial steps
 
 1. Check that you are in the current directory:
