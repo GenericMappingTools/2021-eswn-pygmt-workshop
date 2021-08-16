@@ -148,6 +148,7 @@ In this section, we will create a repository.
 7. Check the status of the project:
 
     `git status`
+
 8. Commit the changes to the git repository:
 
     `git commit -m "Start notes on Git"`
@@ -201,6 +202,7 @@ Branching provides a way to develop independent from the main development line.
 5. Checkout the main branch and note what happens to the file:
 
     `git checkout main`
+
 6. Merge your changes into the main branch using `git merge`:
 
     `git merge test-branch`
@@ -225,9 +227,10 @@ Here we will clone the repository for the MATLAB portion of this workshop:
 
 - This tutorial was adapted from Software Carpentry's
   [Version Control with Git](http://swcarpentry.github.io/git-novice/),
-  which is licensed under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
+  which is licensed under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 - The original adaptation was for the [2021 ESVI REU Program Workshop](https://github.com/meghanrjones/2021-reu-matlab-git)
-  and licensed under the [Creative Commons Attribution license](https://creativecommons.org/licenses/by/4.0/).
+  and licensed under the [Creative Commons Attribution 4.0 license](https://creativecommons.org/licenses/by/4.0/).
+
 ## Further reading
 
 - [Pro Git](https://www.git-scm.com/book/en/v2) book.
