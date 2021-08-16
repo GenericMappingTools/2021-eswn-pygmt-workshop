@@ -129,6 +129,10 @@ In this section, we will create a repository.
 
     `touch git-notes.txt`
 
+    > **Note**: The touch command relies on a UNIX-style environment (e.g.,
+    > macOS, Linux, Git for Windows). Otherwise, create the file using your
+    > text editor.
+
 3. Add notes to the new files:
 
     `echo "Git is a version control system" > git-notes.txt`
