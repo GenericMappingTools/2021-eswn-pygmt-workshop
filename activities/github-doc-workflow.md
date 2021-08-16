@@ -18,39 +18,39 @@ We'll complete the steps together and you can reference the instructions below.
 
    ![Click the link at the start of the section assigned](/images/doc-page.png)
 
-- Click the `Edit on GitHub` link in the upper-right corner ②.
+3. Click the `Edit on GitHub` link in the upper-right corner ②.
 
    ![Click the edit on GitHub link from the documentation page](/images/edit-link.png)
 
-- Scroll down to the section where the are several lines with contents similar to
+4. Scroll down to the section where the are several lines with contents similar to
    `[ |SYN_OPT-*| ]`
 
-- Add `[ |SYN_OPT-s| ]` in a new line  immediately below a line similar to
+5. Add `[ |SYN_OPT-s| ]` in a new line  immediately below a line similar to
   `[ |SYN_OPT-q| ]` (to keep alphabetical order) ③.
 
    ![Add -s to the synopsis message](/images/add-synopsis-s.png)
 
-- Scroll to the bottom of the page and enter a descriptive commit message in
+6. Scroll to the bottom of the page and enter a descriptive commit message in
    the text box below the **Propose changes** heading ④. For more instructions
    on how to write descriptive commit messages, see
    [Chris Beams's guide](https://chris.beams.io/posts/git-commit/).
 
-   ![Write a descriptive commit message, chose email, and propose changes](/images/propose-changes.png)
+    ![Write a descriptive commit message, chose email, and propose changes](/images/propose-changes.png)
 
-- If you have multiple email addresses associated with your account, check
+7. If you have multiple email addresses associated with your account, check
    that you are using the correct address ⑤.
 
-- Click the `Propose changes` button ⑥.
+8. Click the `Propose changes` button ⑥.
 
-- Write a short description about your pull request under the
-  `**Description of proposed changes**` header ⑦.
+9. Write a short description about your pull request under the
+   `**Description of proposed changes**` header ⑦.
 
-  ![Add pull request description and link to issue](/images/submit-pull-request.png)
+   ![Add pull request description and link to issue](/images/submit-pull-request.png)
 
-- Change `Fixes #` to `Addresses #5653` in order to link to the issue without
-  closing it ⑧.
+10. Change `Fixes #` to `Addresses #5653` in order to link to the issue without
+   closing it ⑧.
 
-- Click `Create pull request`.
+11. Click `Create pull request`.
 
 ## Committing more changes to a pull request using GitHub
 
@@ -58,40 +58,40 @@ Now, we will add the -s option to the arguments section of the documentation.
 Normally, you may have added these changes to your first commit but
 we want to demonstrate how to add commits to an existing pull request.
 
-- Navigate to the source branch for your pull request. One option for
-  navigating to the source branch is to click on the *source-branch* name in the
-  statement '*username* wants to merge 1 commit into *target-branch* from
-  *source-branch*', below the PR title ①.
+1. Navigate to the source branch for your pull request. One option for
+   navigating to the source branch is to click on the *source-branch* name in the
+   statement '*username* wants to merge 1 commit into *target-branch* from
+   *source-branch*', below the PR title ①.
 
-  ![Link to source branch under PR title](/images/navigate-branch.png)
+   ![Link to source branch under PR title](/images/navigate-branch.png)
 
-- Click on the `doc` directory, then the `rst` directory, then the `source`
-  directory in the file browser on GitHub.
+2. Click on the `doc` directory, then the `rst` directory, then the `source`
+   directory in the file browser on GitHub.
 
-- Click on the `.rst` file associated with the module that you are working on.
+3. Click on the `.rst` file associated with the module that you are working on.
 
-  - If you are working on the mask or histogram module, click on the
-    `mask_common.rst_` file or `histogram_common.rst_` file, respectively,
-    rather than `mask.rst` or `histogram.rst` files.
+   - If you are working on the mask or histogram module, click on the
+     `mask_common.rst_` file or `histogram_common.rst_` file, respectively,
+     rather than `mask.rst` or `histogram.rst` files.
 
-- Click on the `edit this file button` in the upper-left corner of the file
-  browser ②.
+4. Click on the `edit this file button` in the upper-left corner of the file
+   browser ②.
 
-  ![Edit this file button on upper-left corder of file browser](/images/edit-file.png)
+   ![Edit this file button on upper-left corder of file browser](/images/edit-file.png)
 
-- Add a blank line and a line containing "`.. include:: explain_-s.rst_`" after
-  the line similar to "`.. include:: explain_-q.rst_`" ③.
+5. Add a blank line and a line containing "`.. include:: explain_-s.rst_`" after
+   the line similar to "`.. include:: explain_-q.rst_`" ③.
 
-  ![Add -s option to the list of arguments](/images/add-argument-s.png)
+   ![Add -s option to the list of arguments](/images/add-argument-s.png)
 
-- Scroll to the bottom of the page and write a descriptive commit message in
-  the text box ④.
+6. Scroll to the bottom of the page and write a descriptive commit message in
+   the text box ④.
 
-  ![Add commit message, check branch name, commit changes](/images/commit-edit.png)
+   ![Add commit message, check branch name, commit changes](/images/commit-edit.png)
 
-- Check that the commit will be made to the correct branch ⑤.
+7. Check that the commit will be made to the correct branch ⑤.
 
-- Click the `Commit changes` button ⑥.
+8. Click the `Commit changes` button ⑥.
 
 Now, you're all done! A maintainer will review your pull request, either
 suggesting changes or accepting the pull request and merging in your
