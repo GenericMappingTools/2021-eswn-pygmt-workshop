@@ -1,9 +1,9 @@
 # GitHub workflow for pull requests
 
 For some changes, it can be simpler and quicker to submit a pull request using
-only GitHub rather than using git and your local development
+only [GitHub](https://github.com/) rather than using git and your local development
 environment. In this section, we'll edit the documentation for a repository
-that you do not have cloned locally (GMT) on GitHub.
+that you do not have cloned locally ([GMT](https://github.com/GenericMappingTools/gmt)) on GitHub.
 
 We'll tackle [issue 5653](https://github.com/GenericMappingTools/gmt/issues/5653)
 in the GMT repository while learning how to submit pull requests on GitHub.
@@ -12,8 +12,8 @@ We'll complete the steps together and you can reference the instructions below.
 
 ## Creating a pull request by editing documentation on GitHub
 
-- Go to [GMT issue 5653 on GitHub](https://github.com/GenericMappingTools/gmt/issues/5653).
-- Click on the module link on the section that you have been assigned to go to
+1. Go to [GMT issue 5653 on GitHub](https://github.com/GenericMappingTools/gmt/issues/5653).
+2. Click on the module link on the section that you have been assigned to go to
    the relevant documentation page ①.
 
    ![Click the link at the start of the section assigned](/images/doc-page.png)
