@@ -43,18 +43,21 @@ In this section, we will configure some Git settings.
 2. Set your name:
 
     `git config --global user.name "Your name"`
+
 3. Set your email (see note below for instructions to keep your email private):
 
     `git config --global user.email "Your email"`
+
 4. Set your preferred line endings:
 
     `git config --global core.autocrlf input` (macOS)
 
     `git config --global core.autocrlf true` (windows)
+
 5. Set your preferred text editor (See
   [git-scm Appendix C](https://www.git-scm.com/book/en/v2/Appendix-C%3A-Git-Commands-Setup-and-Config)
   for options):
-  
+
    > **NOTE**: The line below needs to be adjusted for your particular text editor using the
    > options in the link provided above. For example, the command for setting Visual Studio
    > Code as your preferred text editor is `git config --global core.editor "code --wait"`.
@@ -64,10 +67,11 @@ In this section, we will configure some Git settings.
 6. Set a default branch name:
 
     `git config --global init.defaultBranch main`
+
 7. Check your settings:
 
     `git config --list`
-    
+
     `git config user.name`
 
 > **NOTE**: If you wish to use a private email with GitHub, then you can use the format
@@ -103,6 +107,7 @@ In this section, we will create a repository.
 3. View the new `.git` hidden directory created by Git:
 
     `ls -a`
+
 4. Check the status of the Git repository:
 
     `git status`
@@ -131,6 +136,7 @@ In this section, we will create a repository.
 4. In the terminal, check that `git-notes.txt` contains some content:
 
     `cat git-notes.txt`
+
 5. Check the status of the project:
 
     `git status`
@@ -138,15 +144,18 @@ In this section, we will create a repository.
 6. Tell Git to track the file using `git add`:
 
     `git add git-notes.txt`
+
 7. Check the status of the project:
 
     `git status`
 8. Commit the changes to the git repository:
 
     `git commit -m "Start notes on Git"`
+
 9. Check the status of the project:
 
     `git status`
+
 10. Review the changes using `git log`:
 
     `git log`
@@ -182,16 +191,17 @@ Branching provides a way to develop independent from the main development line.
 
     `git branch`
 
-2. Checkout your new branch:
+3. Checkout your new branch:
 
     `git checkout test-branch`
 
-3. Follow the lessons from [tracking changes](#tracking-changes) to commit a new file
+4. Follow the lessons from [tracking changes](#tracking-changes) to commit a new file
    `test-branch.txt`.
-4. Checkout the main branch and note what happens to the file:
+
+5. Checkout the main branch and note what happens to the file:
 
     `git checkout main`
-5. Merge your changes into the main branch using `git merge`:
+6. Merge your changes into the main branch using `git merge`:
 
     `git merge test-branch`
 
