@@ -192,16 +192,16 @@ Branching provides a way to develop independent from the main development line.
 
     `git branch`
 
-3. Checkout your new branch:
+3. Switch to your new branch:
 
-    `git checkout test-branch`
+    `git switch test-branch`
 
 4. Follow the lessons from [tracking changes](#tracking-changes) to commit a new file
    `test-branch.txt`.
 
-5. Checkout the main branch and note what happens to the file:
+5. Switch the main branch and note what happens to the file:
 
-    `git checkout main`
+    `git switch main`
 
 6. Merge your changes into the main branch using `git merge`:
 
