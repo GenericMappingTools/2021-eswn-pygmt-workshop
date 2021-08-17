@@ -74,7 +74,7 @@ Participants will receive zoom invitations via email.
 | First issues - making a pull request (GitHub workflow) | 50 min | 21:00 - 21:50 |
 | Break | 10 min | 21:50 - 22:00 |
 | Earth Science Women's Network Welcome | 10 minutes | 22:00 - 22:10 |
-| First issues - making a pull request (local workflow) | 40 min | 22:00 - 22:50 |
+| First issues - making a pull request (local workflow) | 40 min | 22:10 - 22:50 |
 | Break | 10 min | 22:50 - 23:00 |
 | First issues - reviewing pull requests | 45 min | 23:00 - 23:45 |
 | Wrap-up | 15 min | 23:45 - 24:00 |
