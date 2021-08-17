@@ -5,8 +5,7 @@ Developing Free and Open Source Software with PyGMT
 
 There will be a PyGMT and Git refresher during a webinar
 [preceding the workshop](#august-17-2021-optional). You can run the PyGMT
-tutorial in a live session using:
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GenericMappingTools/2021-eswn-pygmt-workshop/HEAD?filepath=refresher%2Fpygmt_tutorial.ipynb)
+tutorial in a live session using: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GenericMappingTools/2021-eswn-pygmt-workshop/HEAD?filepath=refresher%2Fpygmt_tutorial.ipynb) or live code following the tutorial template using: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GenericMappingTools/2021-eswn-pygmt-workshop/HEAD?filepath=refresher%2Fpygmt_template.ipynb)
 
 This workshop will include lessons about developing open source software and
 collaborative activities. During the activities, participants will contribute
