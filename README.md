@@ -53,7 +53,7 @@ Participants will receive zoom invitations via email.
 
 | **Theme** | **Duration** | **UTC Time** |
 |-----------|--------------|--------------|
-| PyGMT refresher | 1 hr | 20:00-21:00 |
+| [PyGMT refresher](refresher/pygmt_tutorial.ipynb) | 1 hr | 20:00-21:00 |
 | Break | 15 min | 21:00 - 21:15 |
 | [Git refresher](refresher/git-tutorial.md) | 1 hr | 21:15 - 22:15 |
 | Break | 15 min | 22:15 - 22:30 |
