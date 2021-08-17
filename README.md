@@ -3,6 +3,11 @@
 Material for the 2021 ESWN Professional Development Workshop:
 Developing Free and Open Source Software with PyGMT
 
+There will be a PyGMT and Git refresher during a webinar
+[preceding the workshop](#august-17-2021-optional). You can run the PyGMT
+tutorial in a live session using:
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/GenericMappingTools/2021-eswn-pygmt-workshop/HEAD?filepath=refresher%2Fpygmt_tutorial.ipynb)
+
 This workshop will include lessons about developing open source software and
 collaborative activities. During the activities, participants will contribute
 to open source software and work on issues in the
