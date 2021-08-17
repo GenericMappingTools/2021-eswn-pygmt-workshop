@@ -55,7 +55,7 @@ Participants will receive zoom invitations via email.
 |-----------|--------------|--------------|
 | PyGMT refresher | 1 hr | 20:00-21:00 |
 | Break | 15 min | 21:00 - 21:15 |
-| Git refresher | 1 hr | 21:15 - 22:15 |
+| [Git refresher](refresher/git-tutorial.md) | 1 hr | 21:15 - 22:15 |
 | Break | 15 min | 22:15 - 22:30 |
 | Environment setup | 1.5 hr | 22:30 - 24:00 |
 
