@@ -64,7 +64,7 @@ projectname/
       └──test_calc.py (contains 'test_add' function)
 ```
 
-The 'test_addition.py' file would contain:
+The 'test_calc.py' file would contain:
 
 ```python
 from projectname.src.calc import add
