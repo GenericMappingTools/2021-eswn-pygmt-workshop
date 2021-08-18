@@ -63,8 +63,17 @@ repository.
 3. Run `git status` to check that you are in the repository.
 4. Run `conda env create` to create a new conda environment from the
    `environment.yml` file.
+
+   **Note**: If you get a `conda: command not found` error, you'll need to
+   add `conda` to your `$PATH` first, see instructions on
+   https://stackoverflow.com/questions/35246386/conda-command-not-found.
+   Afterwards, you may want to run `conda init`, and open a new terminal
+   window (you may then need to repeat steps 2-4 again).
+
 5. Run `conda activate pygmt` to activate the conda environment.
 6. Run `make install` to install the current source code in your environment.
+   If you are on Windows, you may need to use `pip install --no-deps -e .`
+   instead.
 7. Run `python -c "import pygmt; pygmt.show_versions()"` to check your
    installation.
 
