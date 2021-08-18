@@ -10,7 +10,7 @@ that you make locally.
 
 ## Making changes
 
-1. Navigate to your PyGMT repository using `cd`.
+1. Navigate to your local cloned copy of the PyGMT repository using `cd`:
 
 2. Check the current repository status:
 
@@ -20,11 +20,11 @@ that you make locally.
 
    `git switch main`
 
-4. Pull the latest changes:
+4. Pull the latest changes from the remote repository down to your local copy:
 
     `git pull`
 
-5. Create a new branch and switch to that branch:
+5. Create a new branch (give it a name like add-alias-xxxx) and switch to that branch:
 
     `git switch -c add-alias-rose`
 
@@ -43,7 +43,8 @@ that you make locally.
 
    - **Note**: For steps 9 and 10, refer to the
      [ISO basic Latin alphabet](https://en.wikipedia.org/wiki/ISO_basic_Latin_alphabet)
-     when ordering the aliases.
+     when ordering the aliases. Basically, sort capital letters ABC...XYZ before small
+     letters abc...xyz.
 
 10. In the docstring of the function, add the alias(es) to the list using the
     format `{short_form}`.
@@ -89,11 +90,13 @@ that you make locally.
      request from your branch. Click on the "Compare & pull request" button.
    - Check the base repository, base branch, head repository, and compare
      selections.
-   - Enter a descriptive pull request title.
+   - Enter a descriptive pull request title. E.g.
+     "Add missing common options to rose"
    - Enter information about the pull request underneath `**Description of
      proposed changes**`.
    - Change `Fixes #` to `Addresses #1445`.
-   - Click `Create pull request`.
+   - Click `Create pull request`, or if possible, click on the dropdown button and
+     select `Create draft pull request` which indicates it as a work in progress.
 
 Now, you're all done! A maintainer will review your pull request, either
 suggesting changes or accepting the pull request and merging in your
