@@ -45,7 +45,7 @@ that you make locally.
      [ISO basic Latin alphabet](https://en.wikipedia.org/wiki/ISO_basic_Latin_alphabet)
      when ordering the aliases.
 
-10. In the docstring of the function, add the aliases to the list using the
+10. In the docstring of the function, add the alias(es) to the list using the
     format `{short_form}`.
 
 ## Checking the docstring updates
