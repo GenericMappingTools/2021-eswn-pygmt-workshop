@@ -5,7 +5,7 @@ only [GitHub](https://github.com/) rather than using git and your local developm
 environment. In this section, we'll edit the documentation for a repository
 that you do not have cloned locally ([GMT](https://github.com/GenericMappingTools/gmt)) on GitHub.
 
-We'll tackle [issue 5653](https://github.com/GenericMappingTools/gmt/issues/5653)
+We'll address [issue 5653](https://github.com/GenericMappingTools/gmt/issues/5653)
 in the GMT repository while learning how to submit pull requests on GitHub.
 The workshop leaders will assign each participant one of the files to change.
 We'll complete the steps together and you can reference the instructions below.
