@@ -71,10 +71,10 @@ Participants will receive zoom invitations via email.
 | Welcome | 20 min | 20:00 - 20:20 |
 | [Introduction to free, open source software](introduction.md) | 30 min | 20:20 - 20:50 |
 | Break | 10 min | 20:50 - 21:00 |
-| First issues - making a pull request (GitHub workflow) | 50 min | 21:00 - 21:50 |
+| [First issues - making a pull request (GitHub workflow)](activities/github-doc-workflow.md) | 50 min | 21:00 - 21:50 |
 | Break | 10 min | 21:50 - 22:00 |
 | Earth Science Women's Network Welcome | 10 minutes | 22:00 - 22:10 |
-| First issues - making a pull request (local workflow) | 40 min | 22:10 - 22:50 |
+| [First issues - making a pull request (local workflow)](activities/local-workflow.md) | 40 min | 22:10 - 22:50 |
 | Break | 10 min | 22:50 - 23:00 |
 | First issues - reviewing pull requests | 45 min | 23:00 - 23:45 |
 | Wrap-up | 15 min | 23:45 - 24:00 |
