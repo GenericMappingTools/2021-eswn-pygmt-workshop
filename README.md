@@ -1,5 +1,5 @@
 # 2021 ESWN Professional Development Workshop: Developing Free and Open Source Software with PyGMT
- 
+
 Material for the 2021 ESWN Professional Development Workshop:
 Developing Free and Open Source Software with PyGMT
 
@@ -83,13 +83,13 @@ Participants will receive zoom invitations via email.
 
 | **Theme** | **Duration** | **UTC Time** |
 |-----------|--------------|--------------|
-| Second issue - break-out group discussion | 15 min | 20:00 - 20:15 |
-| Second issue - group reports | 10 min | 20:15 - 20:25 |
+| [Writing unit tests](activities/writing-unit-tests.md) | 15 min | 20:00 - 20:15 |
+| Second issue - break-out group discussion / group reports | 10 min | 20:15 - 20:25 |
 | Second issue - local development | 25 min | 20:25 - 20:50 |
 | Break | 10 min | 20:50 - 21:00 |
 | Second issue - submitting through issues/pull requests | 50 min |21:00 - 21:50 |
 | Break | 10 min | 21:50 - 22:00 |
-| Second issue - incorporating suggestions | 50 min | 22:00 - 22:50 |
+| Second issue - incorporating suggestions from reviewers | 50 min | 22:00 - 22:50 |
 | Break | 10 min | 22:50 - 23:00 |
 | Helping maintain software | 45 min | 23:00 - 23:45 |
 | Wrap-up | 15 min | 23:45 - 24:00 |
