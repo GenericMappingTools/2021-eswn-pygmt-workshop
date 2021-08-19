@@ -83,11 +83,11 @@ Participants will receive zoom invitations via email.
 
 | **Theme** | **Duration** | **UTC Time** |
 |-----------|--------------|--------------|
-| [Writing unit tests](activities/writing-unit-tests.md) | 15 min | 20:00 - 20:15 |
-| Second issue - break-out group discussion / group reports | 10 min | 20:15 - 20:25 |
-| Second issue - local development | 25 min | 20:25 - 20:50 |
+| [Writing unit tests](activities/writing-unit-tests.md) | 20 min | 20:00 - 20:20 |
+| Second issue - break-out group discussion | 15 min | 20:20 - 20:35 |
+| Second issue - group reports | 15 min | 20:35 - 20:50 |
 | Break | 10 min | 20:50 - 21:00 |
-| Second issue - submitting through issues/pull requests | 50 min |21:00 - 21:50 |
+| Second issue - local development to work through issues/pull requests | 50 min | 21:00 - 21:50 |
 | Break | 10 min | 21:50 - 22:00 |
 | Second issue - incorporating suggestions from reviewers | 50 min | 22:00 - 22:50 |
 | Break | 10 min | 22:50 - 23:00 |
