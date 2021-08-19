@@ -92,7 +92,7 @@ Participants will receive zoom invitations via email.
 | Second issue - incorporating suggestions from reviewers | 50 min | 22:00 - 22:50 |
 | Break | 10 min | 22:50 - 23:00 |
 | Second issue - continue working on contributions | 30 min | 23:00 - 23:30 |
-| Maintaining software | 10 min | 23:30 - 23:23:40 |
+| Maintaining software | 10 min | 23:30 - 23:40 |
 | Resources for further learning | 5 min | 23:40 - 23:45 |
 | Wrap-up | 15 min | 23:45 - 24:00 |
 
