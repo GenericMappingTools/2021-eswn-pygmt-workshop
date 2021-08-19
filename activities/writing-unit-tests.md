@@ -70,7 +70,7 @@ The 'test_calc.py' file would contain:
 from projectname.src.calc import add
 
 def test_add():
-    value = add(1.0 + 2.0)
+    value = add(x=1.0, y=2.0)
     assert value == 3.0
 ```
 
@@ -98,20 +98,53 @@ tests/test_calc.py .                         [100%]
 ===================== 1 passed in 0.03s ======================
 ```
 
+---
+
+## Run only specific tests 🎯
+
+Projects can have >100 tests which take a long time to run. You can also run just one test file instead:
+
+```bash
+pytest projectname/tests/test_calc.py
+```
+
+Maybe that file has other functions like add/subtract/multiply/divide. You can be even more specific and run just the one that matches a keyword:
+
+```bash
+pytest -k add projectname/tests/test_calc.py
+```
+
+That's the basics of using [`pytest`](https://docs.pytest.org/en/6.2.x/) in a nutshell!
 
 ---
 
-## Useful resources
+## Useful resources :open_book:
+
+PyGMT's testing guidelines
+
+<small>
+
+- https://www.pygmt.org/v0.4.1/contributing.html#testing-your-code
+
+</small>
 
 Basics of testing in Python
+
+<small>
 
 - https://automationpanda.com/2017/03/14/python-testing-101-pytest
 - https://realpython.com/python-testing and https://realpython.com/pytest-python-testing/
 
+</small>
+
 Test driven development
+
+<small>
 
 - https://realpython.com/courses/test-driven-development-pytest/
 - https://dev.to/cheukting_ho/python-zero-to-hero-ep-13-test-driven-development-1g9l
+
+</small>
 
 ---
 
