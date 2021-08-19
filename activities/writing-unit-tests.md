@@ -58,10 +58,12 @@ In a Python project using [`pytest`](https://docs.pytest.org/en/6.2.x/), we usua
 
 ```markdown
 projectname/
+  ├──__init__.py
   ├──src/
   │   └──calc.py (contains 'add' function)
   └──tests/
-      └──test_calc.py (contains 'test_add' function)
+      ├──test_calc.py (contains 'test_add' function)
+      └──__init__.py
 ```
 
 The 'test_calc.py' file would contain:
