@@ -13,7 +13,7 @@ to open source software and work on issues in the
 [PyGMT repository](https://github.com/GenericMappingTools/pygmt).
 
 **GMT/PyGMT Leaders**:
-- [Meghan Jones](https://github.com/meghanrjones)
+- [Max Jones](https://github.com/maxrjones)
 - [Paul Wessel](https://github.com/PaulWessel)
 - [Wei Ji Leong](https://github.com/weiji14)
 
