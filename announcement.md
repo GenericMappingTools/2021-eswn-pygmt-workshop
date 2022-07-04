@@ -65,4 +65,4 @@ support additional workshops on open source software development)
 - We will provide live captions in English for spoken content during the online
   meeting.
 - We welcome any requests or comments about workshop accessibility, which can be
-  addressed to workshop organizer Meghan Jones at meghanj at hawaii dot edu.
+  addressed to workshop organizer Max Jones at meghanj at hawaii dot edu.
